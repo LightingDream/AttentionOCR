@@ -1,0 +1,10 @@
+# 基于pytorch的AttentionOCR
+- Detector
+  - 基于空间注意力机制的分割文本检测
+- 中间处理
+  - 局部矫正
+- Recognizer
+  - 基于图像增加的文本识别模型
+  - 超分图像增强
+  - 编码(BiLSTM)
+  - 解码器(GRU)
